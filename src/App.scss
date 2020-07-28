@@ -1,0 +1,62 @@
+@import "~bootstrap/scss/bootstrap";
+
+.icons-config{
+  font-family: 'Amatic SC', cursive;
+  font-size: calc(14px + 1vw);
+  @include transition (all, 2s, ease);
+
+  &:hover{
+    font-size: calc(24px + 1vw);
+  }
+}
+
+.navbar-config{
+  height: 200px;
+}
+
+/*********************************************/
+
+.profile-pic-config{
+  width:calc(10em + 1.5vw);;
+  height: calc(10em + 1.5vw);
+}
+
+/*****************************/
+
+.arc-pos-config , .profile-pic-config{
+  margin-top: calc(30px + 2vw);
+}
+
+/*******************************************/
+
+.acc-title-config{
+  font-family: 'Amatic SC', cursive;
+  background-color: white;
+
+  &:hover{
+    background-color: #BEBEBE;
+  }
+}
+
+/***********************************************/
+
+.prof-footer-config{
+  margin-top: calc(50px + 1vw);
+}
+
+.global-class-name{
+  margin-right: calc(10px + 0.5vw);
+}
+
+a:link, a:visited {
+  color: black;
+  cursor: auto;
+
+  &:active{
+    color: black;
+  }
+}
+
+a:hover{
+  color: gray;
+}
