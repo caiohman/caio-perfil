@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11c4719f045b8f685950f43e7fd4eea4",
+    "revision": "12e729e74d9d744bd4d1296fa25a34df",
     "url": "/caio-perfil/index.html"
   },
   {
-    "revision": "27d2be7f26b0b7060a9d",
+    "revision": "5a3ef119f8f96f2ffda4",
     "url": "/caio-perfil/static/css/main.fd8dbe28.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/caio-perfil/static/js/2.818a9d45.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "27d2be7f26b0b7060a9d",
-    "url": "/caio-perfil/static/js/main.1fd8a429.chunk.js"
+    "revision": "5a3ef119f8f96f2ffda4",
+    "url": "/caio-perfil/static/js/main.6a234627.chunk.js"
   },
   {
     "revision": "40a2a6ccb1fc57b797d0",
