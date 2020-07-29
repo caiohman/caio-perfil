@@ -10,11 +10,11 @@ import {HomeOptions} from './components/HomeOptions.js'
 export const Home = () => (
   <Container >
     <Container>
-      <Row className = "row align-items-center">
+      <Row>
         <Col md>
           <HomeOptions />
         </Col>
-        <Col md>
+        <Col md className = "pic-align-config">
           <Image className = "profile-pic-config" src = {picture} roundedCircle />
         </Col>
       </Row>

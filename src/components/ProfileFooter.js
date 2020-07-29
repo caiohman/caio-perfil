@@ -1,14 +1,23 @@
 import React from 'react'
-import Container from 'react-bootstrap/Container'
-import Col from 'react-bootstrap/Col'
-import Row from 'react-bootstrap/Row'
+import {Container, Col, Row} from 'react-bootstrap'
 import {FaLinkedin} from 'react-icons/fa'
 import {FaTwitter} from 'react-icons/fa'
 import {FaInstagram} from 'react-icons/fa'
 import {FaGithub} from 'react-icons/fa'
 import { IconContext } from "react-icons";
+import styled from 'styled-components'
+
+const Styled = styled.div`
+
+.foot-icon-align{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+`;
 
 export const ProfileFooter = () => (
+  <Styled>
   <div className = "prof-footer-config">
     <Container>
       <Row>
@@ -37,4 +46,5 @@ export const ProfileFooter = () => (
       </Row>
     </Container>
   </div>
+  </Styled>
 )
