@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce5d354208edd2fab2f6d31f02afb3fb",
+    "revision": "c1798d34ed621f80669bd0a534c7cad3",
     "url": "/caio-perfil/index.html"
   },
   {
-    "revision": "a409a8b7c8ad628f935e",
-    "url": "/caio-perfil/static/css/main.318aa003.chunk.css"
+    "revision": "b30d9a9db37f78c1aafb",
+    "url": "/caio-perfil/static/css/main.48d733bc.chunk.css"
   },
   {
     "revision": "ce714123cc34525bc90f",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/caio-perfil/static/js/2.4c2fda9a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a409a8b7c8ad628f935e",
+    "revision": "b30d9a9db37f78c1aafb",
     "url": "/caio-perfil/static/js/main.4ff98b3c.chunk.js"
   },
   {
