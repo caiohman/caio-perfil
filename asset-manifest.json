@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/caio-perfil/static/css/main.48d733bc.chunk.css",
-    "main.js": "/caio-perfil/static/js/main.fcc8f91c.chunk.js",
-    "main.js.map": "/caio-perfil/static/js/main.fcc8f91c.chunk.js.map",
+    "main.css": "/caio-perfil/static/css/main.f23f16d4.chunk.css",
+    "main.js": "/caio-perfil/static/js/main.c20d8f45.chunk.js",
+    "main.js.map": "/caio-perfil/static/js/main.c20d8f45.chunk.js.map",
     "runtime-main.js": "/caio-perfil/static/js/runtime-main.54dc4838.js",
     "runtime-main.js.map": "/caio-perfil/static/js/runtime-main.54dc4838.js.map",
     "static/js/2.9b2a145c.chunk.js": "/caio-perfil/static/js/2.9b2a145c.chunk.js",
     "static/js/2.9b2a145c.chunk.js.map": "/caio-perfil/static/js/2.9b2a145c.chunk.js.map",
     "index.html": "/caio-perfil/index.html",
-    "precache-manifest.bc722ea9828f6408ca36a919ae5ef100.js": "/caio-perfil/precache-manifest.bc722ea9828f6408ca36a919ae5ef100.js",
+    "precache-manifest.ea40cf359c3d90eb933a0180060e4179.js": "/caio-perfil/precache-manifest.ea40cf359c3d90eb933a0180060e4179.js",
     "service-worker.js": "/caio-perfil/service-worker.js",
-    "static/css/main.48d733bc.chunk.css.map": "/caio-perfil/static/css/main.48d733bc.chunk.css.map",
+    "static/css/main.f23f16d4.chunk.css.map": "/caio-perfil/static/css/main.f23f16d4.chunk.css.map",
     "static/js/2.9b2a145c.chunk.js.LICENSE.txt": "/caio-perfil/static/js/2.9b2a145c.chunk.js.LICENSE.txt",
     "static/media/picture-profile.jpg": "/caio-perfil/static/media/picture-profile.b6f4362f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.54dc4838.js",
     "static/js/2.9b2a145c.chunk.js",
-    "static/css/main.48d733bc.chunk.css",
-    "static/js/main.fcc8f91c.chunk.js"
+    "static/css/main.f23f16d4.chunk.css",
+    "static/js/main.c20d8f45.chunk.js"
   ]
 }
