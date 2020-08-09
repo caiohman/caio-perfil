@@ -1,5 +1,6 @@
 import React from 'react'
 import './App.scss'
+import './components/animation/hover.scss'
 import {HashRouter as Router , Route , Switch} from 'react-router-dom'
 import {Home} from './Home.js'
 import {ProfileNav} from './components/ProfileNav.js'

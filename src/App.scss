@@ -7,6 +7,7 @@
 
   &:hover{
     font-size: calc(24px + 1vw);
+    cursor: pointer;
   }
 }
 
@@ -23,8 +24,9 @@
 
 
 .profile-pic-config{
-  width:calc(10em + 1.5vw);;
-  height: calc(10em + 1.5vw);
+  width:calc(15em + 1.5vw);
+  height: calc(15em + 1.5vw);
+  object-fit: fill;
 }
 
 /*****************************/
@@ -38,15 +40,12 @@
 .acc-title-config{
   font-family: 'Amatic SC', cursive;
   background-color: white;
-
-  &:hover{
-    background-color: #BEBEBE;
-  }
 }
 
 .desc-text-config{
   font-family: 'Play', sans-serif;
   font-size: calc(10px + 0.5vw);
+  background-color: #F5F5F5;
 }
 
 /***********************************************/
@@ -59,15 +58,18 @@
   margin-right: calc(10px + 0.5vw);
 }
 
-a:link, a:visited {
-  color: black;
-  cursor: auto;
+.social-icons-config > a {
+
+  &:link , &:visited{
+    color: black;
+  }
 
   &:active{
     color: black;
   }
-}
 
-a:hover{
-  color: gray;
+  &:hover{
+    color: gray;
+    cursor: pointer;
+  }
 }

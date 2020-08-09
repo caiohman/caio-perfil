@@ -3,7 +3,7 @@ import Accordion from 'react-bootstrap/Accordion'
 import Card from 'react-bootstrap/Card'
 
 const whoami = " Meu nome é Caio. Sou estudante na Universidade" +
-  " de São Paulo no curso Bacharelado em Sistema de Informação. Sou formado" +
+  " de São Paulo no curso Bacharelado em Sistemas de Informação e sou formado" +
   " pela ETEC Bento Quirino como Técnico em Eletrônica."
 
 const interests = "Atualmente, estou aprendendo desenvolvimento web, " +
