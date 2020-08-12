@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/caio-perfil/static/css/main.515ad8ac.chunk.css",
-    "main.js": "/caio-perfil/static/js/main.85964bc5.chunk.js",
-    "main.js.map": "/caio-perfil/static/js/main.85964bc5.chunk.js.map",
+    "main.js": "/caio-perfil/static/js/main.8ca06d0e.chunk.js",
+    "main.js.map": "/caio-perfil/static/js/main.8ca06d0e.chunk.js.map",
     "runtime-main.js": "/caio-perfil/static/js/runtime-main.54dc4838.js",
     "runtime-main.js.map": "/caio-perfil/static/js/runtime-main.54dc4838.js.map",
     "static/js/2.9b2a145c.chunk.js": "/caio-perfil/static/js/2.9b2a145c.chunk.js",
     "static/js/2.9b2a145c.chunk.js.map": "/caio-perfil/static/js/2.9b2a145c.chunk.js.map",
     "index.html": "/caio-perfil/index.html",
-    "precache-manifest.fafadeb73b444f0ea2542e4cdbfd2c51.js": "/caio-perfil/precache-manifest.fafadeb73b444f0ea2542e4cdbfd2c51.js",
+    "precache-manifest.f4e93e9013afa968082b248cebe03f71.js": "/caio-perfil/precache-manifest.f4e93e9013afa968082b248cebe03f71.js",
     "service-worker.js": "/caio-perfil/service-worker.js",
     "static/css/main.515ad8ac.chunk.css.map": "/caio-perfil/static/css/main.515ad8ac.chunk.css.map",
     "static/js/2.9b2a145c.chunk.js.LICENSE.txt": "/caio-perfil/static/js/2.9b2a145c.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.54dc4838.js",
     "static/js/2.9b2a145c.chunk.js",
     "static/css/main.515ad8ac.chunk.css",
-    "static/js/main.85964bc5.chunk.js"
+    "static/js/main.8ca06d0e.chunk.js"
   ]
 }
